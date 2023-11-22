@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+
+}
+
+.formulario{
+    background-color: grey;
+    height: 500em;
+
+
+}
+form{
+    background-color: white;
+}
+
+
+ button{ 
+background-color: aqua;
+  padding: 10px 65px 10px 65px;
+}
+h1{ color: aqua;}
+
